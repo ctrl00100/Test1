@@ -14,7 +14,6 @@ public class User implements Serializable{
 	@Id
 	private String id;
 
-//		123
 	@JsonFormat(pattern="yyyy-MM-dd HH:mm:ss",timezone="GMT+8")
 	private java.util.Date create_time;
 	private String email;
