@@ -3,7 +3,7 @@
 
 # 效果体验
 
-![效果图](https://github.com/ctrl00100/Test1/blob/master/jt/效果图.png)
+![效果图](https://github.com/ctrl00100/Test1/tree/master/jt/效果图.png)
 
 ## 1.安装
 
